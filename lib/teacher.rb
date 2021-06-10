@@ -1,4 +1,4 @@
-relative_require './lib/user.rb'
+require_relative './lib/user.rb'
 
 class Teacher < User 
 
